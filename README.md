@@ -1,1 +1,1 @@
-# slovnik
+# slovniki
