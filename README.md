@@ -1,4 +1,4 @@
-# slovniki
+[На главную страницу](https://thesaurus-dostoevsky.github.io/)
 
 - Словник по категориям ([все термины](categories.md))
 - Словник униграм ([терминов из одного слова](https://github.com/thesaurus-dostoevsky/slovniki/blob/main/unigrams.md))
