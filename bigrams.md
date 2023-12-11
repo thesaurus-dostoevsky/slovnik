@@ -1,3 +1,4 @@
+# [Словники](https://thesaurus-dostoevsky.github.io/slovniki/)
 Скачать [документ](https://github.com/thesaurus-dostoevsky/slovniki/raw/main/slovnik_bigrams.tsv)
 
 
